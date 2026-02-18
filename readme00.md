@@ -18,11 +18,11 @@ L'application permet :
 
 ### 1️⃣ Exécution du projet
 
-![Console run](screenshots/img1.png)
+![Console run](screenshots/img1.jpeg)
 
 ### 2️⃣ Liste des produits
 
-![Produits H2](screenshots/img2.png)
+![Produits H2](screenshots/img2.jpeg)
 
 ##  Structure du projet
 
